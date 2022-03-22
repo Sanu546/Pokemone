@@ -7,10 +7,14 @@ public class Figur : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        int liv;
+        
     }
-    public void Pokemon(int liv) {
+    public void Pokemon(string navn,int liv) {
 
+    }
+
+    public void Liv() {
+       print(object);
     }
     // Update is called once per frame
     void Update()
